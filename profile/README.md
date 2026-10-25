@@ -20,7 +20,7 @@ M-Foundry 是独立开发者 [MRoldL001](https://github.com/MRoldL001) 的产品
   <img src="m3l-title.jpg" title="" alt="" width="262" />
 </a>
 
-一个面向 Android Jetpack Compose 的 Markdown、LaTeX 与代码高亮渲染器，它从 [MChat](https://github.com/M-Foundry/MChat) 抽离而来，专注于内容渲染
+一个基于组合优于继承原则设计的，面向 Android Jetpack Compose 的渐进式富文本渲染库，支持渲染并混排 Markdown、LaTeX、代码块、表格等内容，提供主题与组件级组合配置、单块样式覆盖、代码高亮、流式渲染和原生扩展能力
 
 [项目地址](https://github.com/M-Foundry/MMixedMarkdownLatex)
 
